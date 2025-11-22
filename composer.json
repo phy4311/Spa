@@ -1,0 +1,10 @@
+{
+    "name": "spa/project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Core\\": "core/"
+        }
+    }
+}
